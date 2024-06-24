@@ -1,0 +1,10 @@
+Data and code is distributed under the CC-BY 4.0 license.
+
+Authors:
+  - Giamattei Luca (luca.giamattei@unina.it), Università di Napoli Federico II
+  - Antonio Guerriero (antonio.guerriero@unina.it), Università di Napoli Federico II
+  - Roberto Pietrantuono (roberto.pietrantuono@unina.it), Università di Napoli Federico II
+  - Stefano Russo (stefano.russo@unina.it), Università di Napoli Federico II
+
+Paper:
+  - "Causal Reasoning in Software Quality Assurance: A Systematic Review"
