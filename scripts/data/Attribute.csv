@@ -1,0 +1,99 @@
+Task,Attribute
+Testing,Reliability
+Threats modeling,Security
+Fault pred.,Reliability
+Fault loc.,Reliability
+Fault loc.,Performance
+Fault loc.,Availability
+Fault loc.,Security
+Fault loc.,Reliability
+Fault loc.,Reliability
+Fault loc.,Reliability
+Fault loc.,Reliability
+Testing,Reliability
+Testing,Performance
+KPI pred.,Maintainability
+Fault loc.,Reliability
+Fault loc.,Reliability
+KPI pred.,Performance
+KPI pred.,Safety
+KPI pred.,Usability
+Fault loc.,Reliability
+Fault loc.,Reliability
+Fault loc.,Safety
+Fault loc.,Reliability
+Fault loc.,Reliability
+KPI pred.,Performance
+Fault loc.,Reliability
+KPI pred.,Maintainability
+Fault loc.,Reliability
+Fault loc.,Reliability
+Anomaly det.,Availability
+Anomaly det.,Performance
+Fault loc.,Reliability
+Fault loc.,Reliability
+Fault loc.,Reliability
+Testing,Testability
+Fault loc.,Reliability
+Fault loc.,Reliability
+Fault loc.,Reliability
+Testing,Reliability
+Testing,Reliability
+Anomaly det.,Performance
+Fault loc.,Reliability
+Fault loc.,Reliability
+Fault loc.,Performance
+KPI pred.,Performance
+Fault loc.,Reliability
+KPI pred.,Usability
+Testing,Reliability
+Fault loc.,Reliability
+Testing,Reliability
+Fault loc.,Performance
+Fault loc.,Reliability
+Fault loc.,Reliability
+Fault loc.,Reliability
+Fault loc.,Reliability
+Fault loc.,Security
+Fault loc.,Safety
+Fault loc.,Reliability
+Testing,Safety
+Testing,Safety
+Testing,Reliability
+Fault loc.,Performance
+Fault loc.,Reliability
+Fault loc.,Reliability
+KPI pred.,Performance
+Fault loc.,Reliability
+Fault pred.,Maintainability
+Fault pred.,Security
+Fault loc.,Reliability
+Testing,Safety
+Fault loc.,Safety
+Fault loc.,Reliability
+Testing,Reliability
+Testing,Security
+Fault pred.,Reliability
+KPI pred.,Reliability
+KPI pred.,Reliability
+Fault pred.,Reliability
+Fault loc.,Reliability
+Anomaly det.,Reliability
+Fault pred.,Reliability
+Fault loc.,Reliability
+KPI pred.,Maintainability
+Fault pred.,Reliability
+Anomaly det.,Security
+KPI pred.,Reliability
+Testing,Security
+KPI pred.,Reliability
+Fault loc.,Reliability
+Fault loc.,Reliability
+Testing,Reliability
+Fault loc.,Reliability
+Fault pred.,Reliability
+KPI pred.,Reliability
+KPI pred.,Performance
+Fault loc.,Reliability
+Fault loc.,Reliability
+Fault pred.,Reliability

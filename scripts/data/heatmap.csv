@@ -1,0 +1,24 @@
+Task,Attribute,occurrences
+Anomaly detection,Availability,1
+Anomaly detection,Performance,2
+Anomaly detection,Reliability,1
+Anomaly detection,Security,1
+Fault localization,Availability,1
+Fault localization,Performance,4
+Fault localization,Reliability,40
+Fault localization,Safety,3
+Fault localization,Security,2
+Fault prediction,Maintainability,1
+Fault prediction,Reliability,7
+Fault prediction,Security,1
+KPI prediction,Maintainability,3
+KPI prediction,Performance,5
+KPI prediction,Reliability,5
+KPI prediction,Safety,1
+KPI prediction,Usability,2
+Testing & analyis,Performance,1
+Testing & analyis,Reliability,10
+Testing & analyis,Safety,3
+Testing & analyis,Security,2
+Testing & analyis,Testability,1
+Threats modeling,Security,1

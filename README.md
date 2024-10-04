@@ -8,7 +8,7 @@ This repository contains the data for the paper "Causal Reasoning in Software Qu
     - Tab "INCLUSION_EXCLUSION" contains the details of the inclusion/exclusion process.
     - Tab "CLASSIFICATION" contain the final results of the classification process for the included papers.
 - "classification_scheme.pdf" shows the final classification scheme adopted for the study.
-- folder "scripts": contains all the code useful to generate the images.
+- folder "scripts": contains all the code and data useful to generate the images.
 
 ### License
 Data and code is distributed under the CC-BY 4.0 license.
